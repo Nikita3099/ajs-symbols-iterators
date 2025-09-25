@@ -1,7 +1,7 @@
 {
-  "name": "ajs-symbols-iterators",
+  "name": "ajs-team-iterator",
   "version": "1.0.0",
-  "description": "Домашка Netology: Символы, итераторы, генераторы",
+  "description": "Netology: Символы и итераторы — классический итератор",
   "main": "src/index.js",
   "scripts": {
     "build": "webpack",
